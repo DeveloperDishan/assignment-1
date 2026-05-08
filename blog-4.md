@@ -36,7 +36,7 @@ Reduces duplicate code
 Improves reusability
 
 
-2. Polymorphism
+# 2. Polymorphism
 
 Polymorphism allows different classes to use the same method differently.
 
@@ -60,7 +60,7 @@ Easier to extend features
 
 
 
-3. Abstraction
+# 3. Abstraction
 
 Abstraction hides complex implementation details and shows only necessary functionality.
 
@@ -92,7 +92,7 @@ Reduces complexity
 Keeps code clean and understandable
 
 
-4. Encapsulation
+# 4. Encapsulation
 
 Encapsulation protects data by restricting direct access.
 
@@ -110,7 +110,7 @@ Improves security
 Prevents unwanted data changes
 
 
-Conclusion
+# Conclusion
 
 The four pillars of OOP help large TypeScript projects by:
 

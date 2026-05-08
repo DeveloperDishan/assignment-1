@@ -87,7 +87,7 @@ class Student extends Person {
     }
 
     getDetails() {
-        return `Name: ${this.name}, Age: ${this.age}, Grade: ${this.grade}`;
+        return `Name: ${this.name}, Age: ${this.age}, Grade: ${this.grade}`
     }
 }
 

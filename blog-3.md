@@ -52,7 +52,7 @@ TypeScript automatically understands the return type
 The function becomes reusable for any type
 
 
-#Conclusion
+# Conclusion
 
 Generics are one of the most powerful features of TypeScript.
 
